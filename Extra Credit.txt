@@ -1,0 +1,5 @@
+Space Complexities:
+Sum Zero: O(N^2) - Two for loops that scale on the size of the input
+Unique Chars: O(n) - I see 1 for loop which adds to variables based on input size.
+Pangram: O(1) - No scaling variables that I can see, or anything based on input size
+longestword: O(1) - Again, no scaling variables. Just one for loop, but that should take up the exact same amount of memory each run through if I remember correctly.
